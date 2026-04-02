@@ -1,7 +1,7 @@
 # inVision U
 
 AI-assisted admissions portal built with Next.js + TypeScript + Supabase + OpenAI.
-
+we also have deployed it:   https://invisionuu.vercel.app
 ---
 
 ## What's inside
