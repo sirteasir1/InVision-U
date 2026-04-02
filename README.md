@@ -4,7 +4,7 @@
 
 Портал поступления с AI-поддержкой, созданный на **Next.js + TypeScript + Supabase + OpenAI**.  
 Также у нас есть уже задеплоенная версия:  
-**https://invisionuu.vercel.app**
+**https://invisionuuu.vercel.app** COMMITTEE_PASSWORD=memememe
 
 ## Что внутри
 
